@@ -5,3 +5,4 @@ image_data.zip filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
 /publickey filter=lfs diff=lfs merge=lfs -text
 *.pub filter=lfs diff=lfs merge=lfs -text
+imagedataset.zip filter=lfs diff=lfs merge=lfs -text
